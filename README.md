@@ -16,13 +16,16 @@ Components :-
 
 1. Microcontroller: Arduino or Raspberry Pi
 
-![image](https://github.com/1512gautam/dual-axis-solar-tracker/assets/142911925/28095f9f-3db4-4884-b4a7-3e949916eef2)
+![image](https://github.com/1512gautam/Dual-axis-solar-tracker/assets/142911925/b6b28ea2-66fa-4db3-abf2-cd578cccb291)
+
 
 https://www.electronicscomp.com/uno-r3-smd-atmega328p-board-compatible-india?gad_source=4
 
 2. Motors: Servo or stepper motors for precise movement 
 
-![image](https://github.com/1512gautam/dual-axis-solar-tracker/assets/142911925/a1f0a69a-68a9-4b42-a8f7-8816476e74bc)
+![image](https://github.com/1512gautam/Dual-axis-solar-tracker/assets/142911925/cea0872b-f912-4352-90cc-d111cb0b39cc)   ![image](https://github.com/1512gautam/Dual-axis-solar-tracker/assets/142911925/d2e35b7c-0c4f-4b91-91d5-32f1f191f96a)
+
+
 
 
 https://robocraze.com/products/mg995-servo-motor?variant=40193009844377&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopNSnacjKYdIsqCN7nGCejFJAKumLHbIzSNPAlGLLwQFliXhYiLLqc
