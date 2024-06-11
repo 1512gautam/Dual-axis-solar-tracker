@@ -1,4 +1,4 @@
-# dual-axis-solar-tacker
+# Dual-axis-solar-tacker
 
 Overview
 This repository contains the design, code, and documentation for a Dual-Axis Solar Tracker project. The dual-axis solar tracker aims to maximize the efficiency of solar panels by continuously orienting them towards the sun. By using both azimuthal and elevational adjustments, the tracker ensures that the panels receive the maximum possible sunlight throughout the day, leading to increased energy production.
@@ -11,9 +11,13 @@ Microcontroller-Based Control: Powered by a microcontroller (e.g., Arduino, Rasp
 Sensor Integration: Incorporates light sensors (e.g., LDRs) to detect sunlight intensity and adjust positioning.
 Weather Resilience: Features mechanisms to protect the panels during adverse weather conditions.
 Scalability: Design can be scaled to accommodate different sizes and types of solar panels.
+
 Components
 Microcontroller: Arduino or Raspberry Pi
+![image](https://github.com/1512gautam/dual-axis-solar-tracker/assets/142911925/28095f9f-3db4-4884-b4a7-3e949916eef2)
+
 Motors: Servo or stepper motors for precise movement
+
 Sensors: Light Dependent Resistors (LDRs), gyroscope for orientation
 Power Supply: Solar panel and battery system
 Structural Frame: Aluminum or steel frame for mounting the solar panel
@@ -28,13 +32,6 @@ Monitoring: Use the included monitoring scripts to check the system's performanc
 Maintenance: Regularly check the mechanical parts and sensors for wear and tear, and replace them as needed.
 Documentation
 Detailed documentation is provided in the /docs directory, including:
-
-User Manual: Instructions for assembling, calibrating, and using the tracker.
-Technical Specifications: Detailed specifications of the components used.
-Troubleshooting Guide: Common issues and solutions.
-Code Documentation: In-depth explanation of the codebase.
-Contributing
-We welcome contributions from the community! Please read our contributing guidelines to get started. You can open issues for bugs or feature requests, and submit pull requests for improvements.
 
 Acknowledgments
 We would like to thank all contributors and the open-source community for their invaluable support.
