@@ -1,4 +1,4 @@
-# Dual-axis-solar-tacker
+# Dual-axis-solar-tracker
 
 This repository contains the design, code, and documentation for a Dual-Axis Solar Tracker project. The dual-axis solar tracker aims to maximize the efficiency of solar panels by continuously orienting them towards the sun. By using both azimuthal and elevational adjustments, the tracker ensures that the panels receive the maximum possible sunlight throughout the day, leading to increased energy production.
 
